@@ -1,0 +1,21 @@
+commit 8797b53a4d0636b860e506548eab0a3c39533392 (HEAD -> logging, master)
+Author: aleksandra.ivanovska@students.finki.ukim.mk 
+<aleksandra.ivanovska@students.finki.ukim.mk>
+Date:   Wed Mar 7 18:45:29 2018 +0100
+
+    Change is made
+
+commit 7cb6c456897c9c1924494396a1d75c5032db7d09 (origin/master)
+Author: aleksandra.ivanovska@students.finki.ukim.mk 
+<aleksandra.ivanovska@students.finki.ukim.mk>
+Date:   Wed Mar 7 18:29:03 2018 +0100
+
+    modify l1.txt
+
+commit 073a87956d54bce65c4d2906cad5c79c8b2a46f2
+Author: aleksandra.ivanovska@students.finki.ukim.mk 
+<aleksandra.ivanovska@students.finki.ukim.mk>
+Date:   Wed Mar 7 18:24:38 2018 +0100
+
+    Initial commit
+
